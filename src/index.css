@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+#root {
+  height: 100dvh;
+  width: 100dvw;
+  overflow: scroll;
+  display: flex;
+}
+
+#root>* {
+  margin: auto;
+}

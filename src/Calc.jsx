@@ -131,7 +131,7 @@ export default function Calc() {
         }
       })()}</p>
       <div className="*:text-gray-700 grid grid-cols-4 gap-2 *:border *:h-12 *:aspect-square  *:rounded  *:flex *:justify-center *:items-center *:transition-all *:cursor-pointer hover:*:bg-blue-500 hover:*:text-white">
-        <Button input={0} />
+        <Button input={7} />
         <Button input={8} />
         <Button input={9} />
         <Button input="/" />

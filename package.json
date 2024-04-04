@@ -1,7 +1,6 @@
 {
   "name": "calc",
-  "private": true,
-  "version": "0.0.0",
+  "author": "github.com/pedrobartolini",
   "type": "module",
   "scripts": {
     "dev": "vite",
